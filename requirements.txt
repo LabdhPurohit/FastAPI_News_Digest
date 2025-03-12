@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlitecloud
+redis
+bcrypt
+smtplib
+requests
+pydantic
+python-dotenv
